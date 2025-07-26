@@ -99,7 +99,7 @@ Your app will be available at: http://127.0.0.1:5000
             ├── requirements.txt
             ├── AgroNomics.ipynb  (final model code)
             ├── model.plk      (final model)
-            ├── encoding.plk   (encoding for model)
+            ├── encoder.plk   (encoding for model)
             ├── app.py         (Flask API)
             ├── LICENSE
             └── README.md
